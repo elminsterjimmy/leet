@@ -16,3 +16,5 @@ release.properties
 .classpath
 .project
 .checkstyle
+*.iml
+.idea/
