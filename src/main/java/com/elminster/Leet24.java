@@ -49,7 +49,7 @@ public class Leet24 {
             System.out.print(node.val + "->");
             print(node.next);
         } else {
-            System.out.println();
+            System.out.println("NULL");
         }
     }
 
