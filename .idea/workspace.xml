@@ -1,88 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="760ffb63-268c-4074-bd93-4a507398cd96" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="760ffb63-268c-4074-bd93-4a507398cd96" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/elminster/Leet2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/elminster/Leet3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/elminster/Leet643.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leet.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leet.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/elminster/Leet91.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-              <folding>
-                <element signature="e#668#669#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/elminster/Leet32.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/elminster/Leet53.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/elminster/Leet62.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/elminster/Leet63.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="27" column="24" lean-forward="true" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/elminster/Leet70.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/elminster/Leet72.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-              <folding>
-                <element signature="e#957#958#0" expanded="true" />
-                <element signature="e#1030#1031#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="PARALLEL_COMPILATION" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -91,91 +27,38 @@
       </list>
     </option>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/elminster/Leet5.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/elminster/Leet70.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/elminster/Leet72.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/elminster/Leet63.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/elminster/Leet91.java" />
-      </list>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
     </option>
   </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="leet" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="leet" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-      </expand>
-      <select />
-    </treeState>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2141" />
-    <option name="y" value="153" />
-    <option name="width" value="1260" />
-    <option name="height" value="640" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="leet" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leet" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leet" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leet" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leet" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leet" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leet" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leet" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leet" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leet" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="elminster" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectId" id="1nrUcGvTdLlUwVQQNjGHo0rZN33" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554720090681" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -185,21 +68,9 @@
       <recent name="C:\github\leet\src\main\java" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.Leet91">
-    <configuration name="Leet63" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.elminster.Leet63" />
+  <component name="RunManager" selected="Application.Leet643">
+    <configuration name="Leet2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.elminster.Leet2" />
       <module name="leet" />
       <extension name="coverage">
         <pattern>
@@ -211,8 +82,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Leet70" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.elminster.Leet70" />
+    <configuration name="Leet3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.elminster.Leet3" />
       <module name="leet" />
       <extension name="coverage">
         <pattern>
@@ -224,8 +95,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Leet72" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.elminster.Leet72" />
+    <configuration name="Leet643" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.elminster.Leet643" />
+      <module name="leet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.elminster.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Leet778" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.elminster.Leet778" />
       <module name="leet" />
       <extension name="coverage">
         <pattern>
@@ -250,25 +136,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.elminster.Main" />
-      <module name="leet" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Leet91" />
+      <item itemvalue="Application.Leet778" />
+      <item itemvalue="Application.Leet2" />
+      <item itemvalue="Application.Leet3" />
+      <item itemvalue="Application.Leet643" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Leet643" />
+        <item itemvalue="Application.Leet3" />
+        <item itemvalue="Application.Leet2" />
+        <item itemvalue="Application.Leet778" />
         <item itemvalue="Application.Leet91" />
-        <item itemvalue="Application.Leet63" />
-        <item itemvalue="Application.Leet72" />
-        <item itemvalue="Application.Leet70" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -281,49 +177,89 @@
       <updated>1554707424602</updated>
       <workItem from="1554707432233" duration="189000" />
       <workItem from="1554707650556" duration="7336000" />
+      <workItem from="1612147784749" duration="1975000" />
+      <workItem from="1612150751571" duration="5376000" />
+      <workItem from="1612403543035" duration="4610000" />
     </task>
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7525000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Maven" order="5" weight="0.32995737" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Database" order="8" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="208" y="25" key="#Project_Structure" timestamp="1612150903596">
+      <screen x="0" y="25" width="1440" height="814" />
+    </state>
+    <state x="208" y="25" key="#Project_Structure/0.25.1440.814/1440.25.3840.2135@0.25.1440.814" timestamp="1612150903596" />
+    <state x="184" y="95" width="1071" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1612150870360">
+      <screen x="0" y="25" width="1440" height="814" />
+    </state>
+    <state x="184" y="95" width="1071" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.814/1440.25.3840.2135@0.25.1440.814" timestamp="1612150870360" />
+    <state x="483" y="143" key="#xdebugger.evaluate" timestamp="1612406571514">
+      <screen x="0" y="25" width="1440" height="809" />
+    </state>
+    <state x="483" y="143" key="#xdebugger.evaluate/0.25.1440.809@0.25.1440.809" timestamp="1612406571514" />
+    <state x="483" y="144" key="#xdebugger.evaluate/0.25.1440.813/1440.25.3840.2135@0.25.1440.813" timestamp="1612173079152" />
+    <state width="430" height="466" key="DebuggerActiveHint" timestamp="1612406646698">
+      <screen x="0" y="25" width="1440" height="809" />
+    </state>
+    <state width="430" height="466" key="DebuggerActiveHint/0.25.1440.809@0.25.1440.809" timestamp="1612406646698" />
+    <state width="1398" height="205" key="GridCell.Tab.0.bottom" timestamp="1612406669482">
+      <screen x="0" y="25" width="1440" height="809" />
+    </state>
+    <state width="1398" height="205" key="GridCell.Tab.0.bottom/0.25.1440.809@0.25.1440.809" timestamp="1612406669481" />
+    <state width="1398" height="254" key="GridCell.Tab.0.bottom/0.25.1440.813/1440.25.3840.2135@0.25.1440.813" timestamp="1612247890347" />
+    <state width="1398" height="205" key="GridCell.Tab.0.bottom/0.25.1440.814/1440.25.3840.2135@0.25.1440.814" timestamp="1612151062246" />
+    <state width="1398" height="205" key="GridCell.Tab.0.center" timestamp="1612406669481">
+      <screen x="0" y="25" width="1440" height="809" />
+    </state>
+    <state width="1398" height="205" key="GridCell.Tab.0.center/0.25.1440.809@0.25.1440.809" timestamp="1612406669481" />
+    <state width="1398" height="254" key="GridCell.Tab.0.center/0.25.1440.813/1440.25.3840.2135@0.25.1440.813" timestamp="1612247890344" />
+    <state width="1398" height="205" key="GridCell.Tab.0.center/0.25.1440.814/1440.25.3840.2135@0.25.1440.814" timestamp="1612151062245" />
+    <state width="1398" height="205" key="GridCell.Tab.0.left" timestamp="1612406669480">
+      <screen x="0" y="25" width="1440" height="809" />
+    </state>
+    <state width="1398" height="205" key="GridCell.Tab.0.left/0.25.1440.809@0.25.1440.809" timestamp="1612406669480" />
+    <state width="1398" height="254" key="GridCell.Tab.0.left/0.25.1440.813/1440.25.3840.2135@0.25.1440.813" timestamp="1612247890344" />
+    <state width="1398" height="205" key="GridCell.Tab.0.left/0.25.1440.814/1440.25.3840.2135@0.25.1440.814" timestamp="1612151062244" />
+    <state width="1398" height="205" key="GridCell.Tab.0.right" timestamp="1612406669481">
+      <screen x="0" y="25" width="1440" height="809" />
+    </state>
+    <state width="1398" height="205" key="GridCell.Tab.0.right/0.25.1440.809@0.25.1440.809" timestamp="1612406669481" />
+    <state width="1398" height="254" key="GridCell.Tab.0.right/0.25.1440.813/1440.25.3840.2135@0.25.1440.813" timestamp="1612247890347" />
+    <state width="1398" height="205" key="GridCell.Tab.0.right/0.25.1440.814/1440.25.3840.2135@0.25.1440.814" timestamp="1612151062245" />
+    <state width="1398" height="254" key="GridCell.Tab.1.bottom" timestamp="1612406653907">
+      <screen x="0" y="25" width="1440" height="809" />
+    </state>
+    <state width="1398" height="254" key="GridCell.Tab.1.bottom/0.25.1440.809@0.25.1440.809" timestamp="1612406653907" />
+    <state width="1398" height="254" key="GridCell.Tab.1.bottom/0.25.1440.813/1440.25.3840.2135@0.25.1440.813" timestamp="1612247890349" />
+    <state width="1398" height="254" key="GridCell.Tab.1.bottom/0.25.1440.814/1440.25.3840.2135@0.25.1440.814" timestamp="1612151055131" />
+    <state width="1398" height="254" key="GridCell.Tab.1.center" timestamp="1612406653906">
+      <screen x="0" y="25" width="1440" height="809" />
+    </state>
+    <state width="1398" height="254" key="GridCell.Tab.1.center/0.25.1440.809@0.25.1440.809" timestamp="1612406653906" />
+    <state width="1398" height="254" key="GridCell.Tab.1.center/0.25.1440.813/1440.25.3840.2135@0.25.1440.813" timestamp="1612247890348" />
+    <state width="1398" height="254" key="GridCell.Tab.1.center/0.25.1440.814/1440.25.3840.2135@0.25.1440.814" timestamp="1612151055130" />
+    <state width="1398" height="254" key="GridCell.Tab.1.left" timestamp="1612406653906">
+      <screen x="0" y="25" width="1440" height="809" />
+    </state>
+    <state width="1398" height="254" key="GridCell.Tab.1.left/0.25.1440.809@0.25.1440.809" timestamp="1612406653906" />
+    <state width="1398" height="254" key="GridCell.Tab.1.left/0.25.1440.813/1440.25.3840.2135@0.25.1440.813" timestamp="1612247890348" />
+    <state width="1398" height="254" key="GridCell.Tab.1.left/0.25.1440.814/1440.25.3840.2135@0.25.1440.814" timestamp="1612151055129" />
+    <state width="1398" height="254" key="GridCell.Tab.1.right" timestamp="1612406653907">
+      <screen x="0" y="25" width="1440" height="809" />
+    </state>
+    <state width="1398" height="254" key="GridCell.Tab.1.right/0.25.1440.809@0.25.1440.809" timestamp="1612406653907" />
+    <state width="1398" height="254" key="GridCell.Tab.1.right/0.25.1440.813/1440.25.3840.2135@0.25.1440.813" timestamp="1612247890348" />
+    <state width="1398" height="254" key="GridCell.Tab.1.right/0.25.1440.814/1440.25.3840.2135@0.25.1440.814" timestamp="1612151055130" />
+    <state x="229" y="72" key="SettingsEditor" timestamp="1612150969782">
+      <screen x="0" y="25" width="1440" height="814" />
+    </state>
+    <state x="229" y="72" key="SettingsEditor/0.25.1440.814/1440.25.3840.2135@0.25.1440.814" timestamp="1612150969782" />
+    <state x="421" y="191" width="597" height="490" key="find.popup" timestamp="1612172434407">
+      <screen x="0" y="25" width="1440" height="813" />
+    </state>
+    <state x="421" y="191" width="597" height="490" key="find.popup/0.25.1440.813/1440.25.3840.2135@0.25.1440.813" timestamp="1612172434407" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -331,133 +267,27 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/elminster/Leet63.java</url>
           <line>33</line>
-          <properties />
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/elminster/Leet778.java</url>
+          <line>9</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/elminster/Leet2.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/elminster/Leet3.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="debuggerHistoryManager">
-    <expressions id="evaluateExpression">
-      <expression>
-        <expression-string>isZero(Integer.parseInt(s.substring(i - 1, i)))</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>s.substring(i - 1, i)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>s.substring(i - 1, i + 1)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>isZero(Integer.parseInt(s.substring(i, i + 1))</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>dp[i - 1]</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>iszero(integer.parseint(s.substring(i, i + 1))</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>Integer.getInteger(s.substring(0, 1))</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>s.substring(0, 1)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-    </expressions>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/elminster/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/elminster/Leet5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/elminster/Leet91.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding>
-            <element signature="e#668#669#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/elminster/Leet32.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/elminster/Leet53.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/elminster/Leet62.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/elminster/Leet63.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="27" column="24" lean-forward="true" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/elminster/Leet72.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-          <folding>
-            <element signature="e#957#958#0" expanded="true" />
-            <element signature="e#1030#1031#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/elminster/Leet70.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>
